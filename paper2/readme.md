@@ -32,7 +32,7 @@
 
 17．	A K-Band Portable FMCW Radar With Beamforming Array for Short-Range Localization and Vital-Doppler Targets Discrimination
 
-18．	A Review on Recent Progress of Portable Short-Range Noncontact Microwave Radar Systems
+18(7)．	A Review on Recent Progress of Portable Short-Range Noncontact Microwave Radar Systems
 
 19．	Hand gesture recognition based on Wi-Fi chipsets
 
